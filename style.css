@@ -1,0 +1,21 @@
+
+body {
+    width: Auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+h1 {
+    align-text: center;
+    color: red;
+    font-size: 20px;
+}
+
+
+img {
+    width: 100%
+}
